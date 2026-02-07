@@ -228,4 +228,5 @@ st.write("- Jaipur handles 500+ emergency calls daily")
 st.markdown("**Sources:** WHO Emergency Medical Services Report, 2023")
 
 st.markdown("---")
-st.markdown("Made with ❤️ for AMD Slingshot 2026 | AI for Social Good")
+st.markdown("Made with ❤️ for AMD Slingshot 2026 | AI for Smart cities")
+
